@@ -1,4 +1,4 @@
-code for optional part: celastiline2.ino (open with wordpad in case you dont have arduino IDE)
+Code for optional part: celastiline2.ino (open with wordpad in case you dont have arduino IDE)
 video for the same has also been provided.
 
 OUR Approach:
